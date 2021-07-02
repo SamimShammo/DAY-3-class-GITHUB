@@ -1,0 +1,12 @@
+h1{
+    color: violet;
+    background-color: yellow;
+    width: auto;
+}
+
+h1:hover{
+    color: blue;
+    transition: .6s;
+    border: 2px solid red;
+    background-color: none;
+}
