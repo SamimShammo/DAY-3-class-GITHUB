@@ -6,7 +6,11 @@ h1{
 
 h1:hover{
     color: blue;
-    transition: .6s;
-    border: 2px solid red;
-    background-color: none;
+    background-color: transparent;
+}
+p{
+    color: violet;
+    font-size: 30px;
+    border: 5px dotted red;
+    border-radius: 30px;
 }
